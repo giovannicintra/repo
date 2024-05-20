@@ -1,0 +1,17 @@
+page_type,variable,value,conversion
+listing_page,Awareness,176832.0,1.0
+listing_page,Consideration,176831.0,0.9999943449149475
+listing_page,Intent,3053.0,0.017264974665218966
+listing_page,Purchase,2358.0,0.013334690553745929
+order_page,Awareness,1399.0,1.0
+order_page,Consideration,367.0,0.26233023588277343
+order_page,Intent,10.0,0.007147962830593281
+order_page,Purchase,1399.0,1.0
+product_page,Awareness,146924.0,1.0
+product_page,Consideration,146864.0,0.9995916256023523
+product_page,Intent,6564.0,0.04467615910266532
+product_page,Purchase,3341.0,0.02273964770901963
+search_listing_page,Awareness,15288.0,1.0
+search_listing_page,Consideration,15283.0,0.9996729461015176
+search_listing_page,Intent,1040.0,0.06802721088435375
+search_listing_page,Purchase,539.0,0.035256410256410256

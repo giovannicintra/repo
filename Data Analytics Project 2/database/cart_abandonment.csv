@@ -1,0 +1,5 @@
+page_type,variable,value,rate
+listing_page,Intent,3053.0,0.22764493940386504
+order_page,Intent,10.0,-138.9
+product_page,Intent,6564.0,0.491011578305911
+search_listing_page,Intent,1040.0,0.48173076923076924
