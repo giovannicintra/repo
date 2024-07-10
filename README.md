@@ -2,6 +2,30 @@
 That will be my Portfolio !
 
 # Project 1
+Task 1
+
+You have city-level data about 4 online grocery stores SKUs (inventory, sales, waste). Based on the information there, please provide Commercial and Supply chain teams with relevant insights you extracted from the dataset. Also provide recommendations and hypotheses to validate further. 
+
+Metrics definitions:
+SKU - stock keeping unit. Examples: Banana, 1kg; President Cheese, 250 g
+    • Unique SKUs Listed - Total number of unique SKUs which were in active status and visible in the app.
+    • Unique SKUs Sold - Total number of unique SKUs which had at least 1 sold item within the period.
+    • # of sold SKU items - Total number of all sold SKUs items within the period.
+    • Sales value before discount (EUR) - Total Sales value of all Sold SKUs items.
+    • User Discount Value (EUR) - Total discount value for sold SKUs items made for users.
+    • Total COGS for Sold items (EUR) - Total cost of purchase of all sold SKUs items from the suppliers.
+    • Waste, # of items - Total number of SKUs items written off due to expiration reasons.
+
+Task 2
+
+Using the following dataset, please answer the questions shown below. In the spreadsheet, use a different tab for each question and include all your calculations, graphs and formulas so we can understand your work. Questions are:
+
+    1. Do we have any seasonality in the countries shown?
+    2. Use your knowledge to predict with the available data, how many orders we will have in March 2020 in each country shown?
+    3. Please tell us any other valuable insight that you can extract from the data available and what would you do to solve it
+
+
+# Project 2
 
 Part 1 – Main 
 
