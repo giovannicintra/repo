@@ -1,7 +1,13 @@
-# repository
-That will be my Portfolio !
+# Welcome to My GitHub Repository
+Hello and welcome to my GitHub repository!
 
-# Project 1
+Here, you'll find a collection of projects that I have developed throughout my career. These projects range from interview tasks to personal study exercises. Each project includes a detailed disclaimer and description to provide context and explain its purpose.
+
+I hope you find these projects insightful and useful. If you have any questions or would like to connect, feel free to reach out to me via email at giovanni.cintra@hotmail.com or through my [LinkedIn profile](https://www.linkedin.com/in/giovannicintra/).
+
+Thank you for visiting, and happy coding!
+
+## Project 1
 Task 1
 
 You have city-level data about 4 online grocery stores SKUs (inventory, sales, waste). Based on the information there, please provide Commercial and Supply chain teams with relevant insights you extracted from the dataset. Also provide recommendations and hypotheses to validate further. 
@@ -26,7 +32,7 @@ Using the following dataset, please answer the questions shown below. In the spr
 3. Please tell us any other valuable insight that you can extract from the data available and what would you do to solve it
 
 
-# Project 2
+## Project 2
 
 Part 1 – Main 
 
