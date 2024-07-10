@@ -1,3 +1,5 @@
+# Project
+
 The product owner wants to change the marketing strategy based on customers’ behavior.
 
 1. We need to build a custom purchase funnel based on the tracking data, the funnel will 
