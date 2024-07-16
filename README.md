@@ -68,3 +68,15 @@ Part 2 - SQL
 2. Write a query that will return any abnormal (to our view) user behavior. Describe why 
 the behavior is unusual.
 
+
+## Project 3
+
+Mobile Games: A/B Testing & Player Retention
+
+This project is based on a mini project from Datacamp.
+
+Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats. Check out this short demo
+
+As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
+
+But where should the gates be placed? Initially the first gate was placed at level 30. In this project, we're going to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention.
